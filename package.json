@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://fevziismailsahin.github.io/miniature-waffle",
+  "homepage": "https://fevziismailsahin.github.io/miniature-waffle",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
