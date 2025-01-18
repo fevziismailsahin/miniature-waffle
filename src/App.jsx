@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Fevzi Sahin",
-  title: "Mobile App Developer & Backend Engineer",
+  title: "Computer Engineer",
   email: "fevziismailsahin@gmail.com",
   gitHub: "https://github.com/fevziismailsahin",
   //instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/fevzi-ismail-%C5%9Fahin-a5b37820b",
+  linkedIn: "www.linkedin.com/in/fevzi-ismail-sahin-a5b37820b",
   //medium: "",
   //twitter: "microsoft",
   //youTube: "Code",
